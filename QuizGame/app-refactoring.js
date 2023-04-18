@@ -67,31 +67,3 @@ while (handlerIndex < buttonLength){
 	
 	handlerIndex++;
 }
-
-//按下按鈕，判斷正確與否
-// $button[0].addEventListener('click',(e) => {
-// 	// if(correct === e.target.textContent){
-// 	// 	window.alert('正確！');
-// 	// 	}else{
-// 	// 	window.alert('錯誤！')
-// 	// 	}
-// 	clickHandler(e);
-// });
-
-// $button[1].addEventListener('click',(e) => {
-	
-// 	clickHandler(e);
-// });
-
-// $button[2].addEventListener('click',(e) => {
-
-// 	clickHandler(e);
-// });
-
-
-// $button[3].addEventListener('click',(e) => {
-
-// 	clickHandler(e);
-// });
-
-
