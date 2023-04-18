@@ -2,8 +2,8 @@
 
 ### Links
 
-- Quiz Game Demo: [https://codepen.io/Quanhui-Yang/pen/KKGdyEp]
+- Quiz Game : [https://codepen.io/Quanhui-Yang/pen/KKGdyEp]
 
-- Tab UI Demo: [https://codepen.io/Quanhui-Yang/pen/qBJOVxj]
+- Tab UI : [https://codepen.io/Quanhui-Yang/pen/qBJOVxj]
 
-- Accordion UI Demo: [https://codepen.io/Quanhui-Yang/pen/LYgprKZ]
+- Accordion UI : [https://codepen.io/Quanhui-Yang/pen/LYgprKZ]
