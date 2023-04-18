@@ -104,14 +104,3 @@ while ( handlerIndex < buttonLength ) {
 	
 	handlerIndex++;
 }
-
-//步驟零 #問題#答案選項#正確答案
-// const question = '遊戲市場中，銷量最好的遊戲機是下列何者？';//問題一個
-// const answers =	[
-// 	'超級任天堂',
-// 	'playstation2',
-// 	'任天堂switch',
-// 	'任天堂DS'
-// ];//答案多個選項，用陣列
-// const correct = '任天堂DS';
-
